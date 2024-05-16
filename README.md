@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I am a software developer specializing in Node.js and MongoDB with a passion for building scalable and efficient web applications. Dedicated to staying updated with the latest technologies and best practices in the field.
 
 ## Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,express,jest,MongoDB,MySQL,nestjs,nextjs,nodejs,sqlite,ts,react)](https://skillicons.dev)
 
 - Languages: JavaScript (Node.js), HTML5, CSS3
 - Frameworks/Libraries: Express.js, React.js, Hapi.js, Nest.js, Typescript.
