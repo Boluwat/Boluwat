@@ -21,11 +21,11 @@ I am a software developer specializing in Node.js and MongoDB with a passion for
 
 ## Tech Stack:
 
-Languages: JavaScript (Node.js), HTML5, CSS3
-Frameworks/Libraries: Express.js, React.js, Hapi.js, Nest.js, Typescript.
-Databases: MongoDB, MySQL, PostgreSQL, Sqlite3
-Tools/Platforms: Git.
-Testing: Jest.
+- Languages: JavaScript (Node.js), HTML5, CSS3
+- Frameworks/Libraries: Express.js, React.js, Hapi.js, Nest.js, Typescript.
+- Databases: MongoDB, MySQL, PostgreSQL, Sqlite3
+- Tools/Platforms: Git.
+- Testing: Jest.
 
 ### 🔭 Experience:
 
