@@ -36,7 +36,8 @@ Testing: Jest.
 - Designed and developed a highly scalable API for the Admin Module using Node.js,Hapi.js, Swagger, Postman, and Jest. 
 - Achieved a significant boosting performance, while maintaining 95% test coverage. 
 - Integrated the applications with Paystack using Node.js, Hapi.js, and JWT for payment integration,  security,  and data validation. 
-- Set up and maintained the audit service to track activities from the core services using Node.js,Hapi.js, RabbitMQ, and Winstongenerating daily reports for management. 
+- Set up and maintained the audit service to track activities from the core services using Node.js,Hapi.js, RabbitMQ, and 
+  Winstongenerating daily reports for management. 
 
 ## Junior Developer at SoftBlue Ng (2021)
 
@@ -48,8 +49,8 @@ Testing: Jest.
 
 ## Projects:
 
-- Hospital Management System: Developed a scalable hospital management system platform using Node.js, hapi js, and MongoDB, Bcrypt, JWT,  allowing users to register patients, admit   
-  patients in their hospital rooms, and also check out patients.
+- Hospital Management System: Developed a scalable hospital management system platform using Node.js, hapi js, MongoDB, Bcrypt, JWT, 
+  allowing users to register patients, admit patients in their hospital rooms, and also check out patients.
 - Logistics API: Built a logistics API that can track users' packages using Node.js, Typescript, and Sqlite.
 
 ## 📫 Get in Touch
